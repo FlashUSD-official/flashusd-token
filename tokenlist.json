@@ -1,0 +1,27 @@
+{
+  "name": "Flash USD Token List",
+  "logoURI": "https://raw.githubusercontent.com/FlashUSD-official/flashusd-token/main/logo.png",
+  "keywords": [
+    "flashusd",
+    "USDF",
+    "stablecoin",
+    "bnb",
+    "defi"
+  ],
+  "timestamp": "2025-10-30T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x33bf30Bd19D176454C49F035f2E4942379B73d11",
+      "name": "Flash USD",
+      "symbol": "USDF",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/FlashUSD-official/flashusd-token/main/logo.png"
+    }
+  ]
+}
