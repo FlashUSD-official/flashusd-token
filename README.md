@@ -47,7 +47,7 @@ Logos and metadata are hosted via GitHub for transparency and easy integration.
   "symbol": "USDF",
   "chainId": 56,
   "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/FlashUSD-official/flashusd-token/main/assets/logo.png"
+  "logoURI": "https://raw.githubusercontent.com/FlashUSD-official/flashusd-token/main/logo.png"
 }
 ```
 
