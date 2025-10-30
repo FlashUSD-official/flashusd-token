@@ -1,12 +1,12 @@
 # 🚀 Flash USD (USDF) 🚀
 
-Welcome to the official repository of **Flash USD (FUSD)** — a stable and efficient digital asset built on the **BNB Smart Chain (BEP-20) / ERC-20** standard.  
+Welcome to the official repository of **Flash USD (USDF)** — a stable and efficient digital asset built on the **BNB Smart Chain (BEP-20) / ERC-20** standard.  
 Our goal is to provide a seamless, transparent, and community-driven token designed for stability and cross-platform usability.
 
 ---
 
 ## 💠 Overview
-**Flash USD (FUSD)** is a decentralized digital token that combines simplicity, transparency, and accessibility.  
+**Flash USD (USDF)** is a decentralized digital token that combines simplicity, transparency, and accessibility.  
 It’s built with verified, open-source smart contracts for maximum trust and interoperability.
 
 | Property | Details |
@@ -16,7 +16,7 @@ It’s built with verified, open-source smart contracts for maximum trust and in
 | **Decimals** | 6 |
 | **Standard** | BEP-20 (ERC-20 compatible) |
 | **Network** | BNB Smart Chain |
-| **Contract Address** | `0xYourBSCContractAddressHere` |
+| **Contract Address** | `0x33bf30Bd19D176454C49F035f2E4942379B73d11` |
 
 ---
 
@@ -30,7 +30,7 @@ It’s built with verified, open-source smart contracts for maximum trust and in
 
 ## 🌐 Official Links
 - 🌎 **Website:** [Coming Soon](#)
-- 🧾 **BscScan:** [View Contract](https://bscscan.com/address/0xYourBSCContractAddressHere)
+- 🧾 **BscScan:** [View Contract](https://bscscan.com/address/0x33bf30Bd19D176454C49F035f2E4942379B73d11)
 - 💬 **Telegram:** [Join Community](#)
 - 🐦 **Twitter/X:** [Follow Updates](#)
 - 📈 **DEX Trading:** [Trade on PancakeSwap](https://pancakeswap.finance/)
@@ -44,7 +44,7 @@ Logos and metadata are hosted via GitHub for transparency and easy integration.
 ```json
 {
   "name": "Flash USD",
-  "symbol": "FUSD",
+  "symbol": "USDF",
   "chainId": 56,
   "decimals": 6,
   "logoURI": "https://raw.githubusercontent.com/FlashUSD-official/flashusd-token/main/assets/logo.png"
